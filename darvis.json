@@ -3,7 +3,7 @@
     "wake_word": "Darvis",
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-    "model": "darvis.tflite",
+    "model": "https://raw.githubusercontent.com/pepasek11/personal/ca39eca73dd8acb03e27870ffd25baec02d0a8b1/darvis.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
