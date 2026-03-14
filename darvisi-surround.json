@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "Darvisi",
+    "wake_word": "Jarvis (surround)",
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "https://raw.githubusercontent.com/Pepasek11/personal/main/darvisi-surround.tflite",
