@@ -3,11 +3,11 @@
     "wake_word": "Hey Jarvisy",
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-    "model": "hey_jarvisy.tflite",
+    "model": "https://raw.githubusercontent.com/Pepasek11/personal/main/hey_jarvisy.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
-        "probability_cutoff": 0.97,
+        "probability_cutoff": 0.90,
         "sliding_window_size": 5,
         "feature_step_size": 10,
         "tensor_arena_size": 30000,
